@@ -1,3 +1,4 @@
+<!-- ...existing code... -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,16 +10,52 @@
 <body>
     <div id="chat-container">
         <div id="chat-header">
-            <span> Transfer Assistant</span>
+            <div class="header-avatar"></div>
+            <div class="header-text">
+                <h1>Transfer Advisor</h1>
+                <p>your community college guide</p>
+            </div>
+            <div class="online-dot"></div>
         </div>
-        <div id="chat-messages"></div>
+
+        <div id="chat-messages">
+            <div class="data-divider">today</div>
+            <div class="message-avatar"></div>
+            <div>
+                <div class="bubble bot"> 
+                hey! i am your transfer advisor. i can help with UC and CSU requirements, ASSIST.org, TAG programs, deadlines, and more. 
+                what is on your mind?
+                </div>
+                <div class="suggestion-tags"> 
+                    <button class="tag">GPA requirements</button>
+                    <button class="tag">IGETC</button>
+                    <button class="tag">deadlines</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="message-row" id="typing-row" style="display: none;">
+            <div class="message-avatar"></div>
+            <div class="typing-bubble" id="typing-bubble">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+<!-- removed extra closing div that was here previously -->
+        <div id="quick-chips">
+            <button class="chip">TAG requirements</button>
+            <button class="chip">ASSIST.org</button>
+            <button class="chip">application deadlines</button>
+            <button class="chip">personal statement</button>
+        </div>
         <div id="chat-input-area">
-            <input type="text" id="chat-input" placeholder="Ask a question about transferring colleges...">
-            <button id="send-button">Send</button>
+            <input type="text" id="user-input" placeholder="Ask a question about transferring colleges..." autocomplete="off"/>
+            <button id="send-btn" aria-label="Send message">
+                <svg width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                </svg>
+            </button>
         </div>
+        <p id ="chat-footer-note"> this is not a substitute for academic advising.</p>
         <script src="app.js"></script>
-    <footer>
-        <p>&copy; 2026 jackie pantoja romero</p>
-    </footer>
 </body>
 </html>
+<!-- ...existing code... -->
