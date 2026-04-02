@@ -1,0 +1,266 @@
+[
+    {
+        "question": "What GPA do I need for UCLA CS?",
+        "keywords": ["GPA", "UCLA", "CS", "UC"],
+        "category":"GPA",
+        "answer":"Transfer admission is highly competetive, with highest prioirity given to California community college students who have completed all major prepreation. A competitve GPA range for Computer Science transfers is 3.94-4.00. However, the minimum requirement for California residents is at least a 3.0."
+    },
+    {
+        "question": "What GPA do I need for CSUN CS?",
+        "keywords": ["GPA", "CSUN", "CS", "CSU"],
+        "category": "GPA",
+        "answer": "Admission for transfer students is generally a 2.0 for Computer Science as it is an impacted major."
+    },
+    {
+        "question": "What GPA do I need for CSULA CS?",
+        "keywords": ["GPA", "CSULA", "CS", "CSU"],
+        "category": "GPA",
+        "answer": "Admission for transfer students is generally a 2.0 for Computer Science as it is an impacted major."
+    },
+    {
+        "question": "What GPA do I need for UCLA Sociology?",
+        "keywords":["GPA", "UC", "UCLA", "sociology"],
+        "category":"GPA",
+        "answer": "Admissions for transfer students at UCLA is an average GPA of 3.5 to be considered competitive and a minimum GPA of a 3.2."
+    },
+    {
+        "question": "What GPA do I need for CSUN Sociology?",
+        "keywords":["GPA", "CSU", "CSUN", "sociology"],
+        "category": "GPA",
+        "answer": "Admissions for transfer students is generally a 2.0 for Sociology."
+    },
+    {
+        "question": "What GPA do I need for CSULA Sociology?",
+        "keywords":["GPA", "CSU", "CSULA", "sociology"],
+        "category": "GPA",
+        "answer": "Admissions for transfer students is generally a 2.0 for Sociology."
+    },
+    {
+        "question": "What GPA do I need for UCLA Biology?",
+        "keywords":["GPA", "UC", "UCLA", "biology"],
+        "category": "GPA",
+        "answer": "Admissions for transfer students at UCLA is an average GPA of 3.82  to be considered competitive and a minimum GPA of a 3.2."
+    },
+    {
+        "question": "What GPA do I need for CSUN Biology?",
+        "keywords":["GPA","CSUN","CS","biology"],
+        "category": "GPA",
+        "answer": "Admissions for transfer students is generally a 2.5 for Biology."
+    },
+    {
+        "question": "What GPA do I need for CSULA Biology?",
+        "keywords":["GPA","CSULA","CS","biology"],
+        "category": "GPA",
+        "answer": "Admissions for transfer students is generally a 2.4 for Biology."
+    },
+    {
+        "question": "When is the CSU deadline?",
+        "keywords": ["CSU", "deadline", "due date", "when apply"],
+        "category": "Deadlines",
+        "answer": "The priority application deadline for the California State University (CSU) Fall 2027 term in November 30, 2026."
+    },
+    {
+        "question": "When is the UC deadline?",
+        "keywords": ["UC", "deadline", "due date", "when apply"],
+        "category": "Deadlines",
+        "answer": "The application deadline for the University of California (UC) for the Fall 2027 term is November 30, 2026."
+    },
+    {
+        "question": "Can I update my application after submitting?",
+        "keywords": ["update", "application","when submit", "UC", "CSU"],
+        "category": "Application_Process",
+        "answer": "You can log back into your UC application at any time to update basic contact information or report new test scores. However, the Cal State Apply system is strictly locked after submission for most users, though limited exceptions exists for specific profile details."	
+    },
+    {
+        "question": "Do I need recommendation letters?",
+        "keywords": ["recommendation letters", "recommendation", "UC", "CSU", "application"],
+        "category": "Application_Process",
+        "answer": "CSU campuses do not require recommendation letters. However, there are some schools within the UC sustem that do require recommendation letters. Please follow up with your prospected college to know if it is speficially asked by a campus."
+    },
+    {
+        "question": "What is a transfer admission guarantee (TAG)?",
+        "keywords": ["tag", "transfer", "application", "UC", "CSU"],
+        "category": "Terminolgy",
+        "answer": "The Transfer Admission Gurantee (TAG) is a formal contractual agreement between a community college student and a specific four-year university that ensures admission if the student meets defined academic requirements."
+    },
+    {
+        "question": "Can I apply if I was previously rejected?",
+        "keywords": ["rejected", "university", "bad grades", "UC", "CSU"],
+        "category":"Personal_Situation",
+        "answer": "Yes, you can apply to a college that previously rejected you, usuallyy in a future application cycle."
+    },
+    {
+        "question": "How do I send my transcripts?",
+        "keywords": ["transcripts", "transfer student", "application"],
+        "category": "Deadlines",
+        "answer": "You sed your transcripts to colleges by requesting them through your college registar or through online services such as Parchment, Naviance, or Clearhouse."
+    },
+    {
+        "question": "What is the difference between a First-Year and Transfer applicant?",
+        "keywords": ["application", "transfer", "first-year", "difference"],
+        "category": "Terminolgy",
+        "answer": "The difference between a First-Year and Transfer application is whether a student has completed college-level coursework after graduating from high school. Typically, transfer students have completed some specific number of transferable credits from a college following high school graduation."
+    },
+    {
+        "question": "Does my choice of major affect my admission?",
+        "keywords": ["major", "admissions", "acceptance", "university"],
+        "category": "Competitveness_and_Chances",
+        "answer": "Acceptance rates can vary drastically by majors, especially those majors that may be impacted,  meaning the number of qualified applicants exceeds the available resources, such as faculty or lab space."
+    },
+    {
+        "question": "Is there an early acceptance option for UCLA?",
+        "keywords": ["UCLA", "early acceptance", "acceptance", "university"],
+        "category": "School_Specific_UCLA",
+        "answer": "No, there is no early acceptance option for UCLA undergraduate students."
+    },
+    {
+        "question":"Can I apply to UCLA as an undeclared major?",
+        "keywords":["UCLA", "undeclared", "major", "uc"],
+        "category": "School_Specific_UCLA",
+        "answer": "Transfer applicants are not permitted to apply as underclares and must choose a specific major."
+    },
+    {
+        "question": "What CS opportunities do students at CSULA have?",
+        "keywords": ["CS", "CSU", "opportunities", "CSULA", "major"],
+        "category": "School_Specific_CSULA",
+        "answer": "The CS opportunites that students at CSULA have consist of specialized ABET-accredited degree programs, extensive on-campus research labs, and dedicated career placement services such as the ECST Internship & Career Expo."
+    },
+    {
+        "question": "Does CSUN have a good Biology program?",
+        "keywords": ["CSUN", "CSU", "biology", "major"],
+        "category": "School_Specific_CSUN",
+        "answer": "CSUN has a popular and well-regarded Biology program known for its strong research and hands-on field opportunities."
+    },
+    {
+        "question": "Do I need calculas for computer science?",
+        "keywords": ["calculas", "cs", "computer science", "math", "college"],
+        "category": "Major_Prep",
+        "answer": "Yes, calculus is needed for computer science as it is a standard requirment for degrees pertaining to CS."
+    },
+    {
+        "question": "What is IGETC?",
+        "keywords": ["IGETC", "requirements", "UC", "CSU", "college"],
+        "category": "Terminolgy",
+        "answer": "IGETC is the intersegmental general education transfer curriculum that is a series of California community college courses that satisfy lower-division general education requriements at all UC and CSU campuses."
+    },
+    {
+        "question": "What is ASSIST?",
+        "keywords": ["ASSIST", "requirements", "college", "terminology"],
+        "category": "Terminolgy",
+        "answer": "ASSIST is the articulation system stimulating inter-instituional student transfer that is the official online repsitory for articulation and transfer information in California's public higher education system."
+    },
+    {
+        "question": "When should I hear back from CSUN?",
+        "keywords": ["CSUN", "CSU", "due date", "acceptance"],
+        "category": "School_Specific_CSUN",
+        "answer": "After submitting your CSU application, you should expect to hear back from CSUN in mid-March if you applied for the fall semester and by mid-November if you applied for the spring semester."
+    },
+    {
+        "question": "What is CSULA known for?",
+        "keywords": ["CSULA", "CSU", "school", "major"],
+        "category": "School_Specific_CSULA",
+        "answer": "CSULA is known for being ranked number one in the US for the upward mobility of its students as well as being home to top-ranked programs."
+    },
+    {
+        "question": "How do I transfer to CSULA?",
+        "keywords": ["CSULA", "CSU", "transfer", "college"],
+        "category": "School_Specific_CSULA",
+        "answer": "You can transfer to CSULA by meeting the Golden Four requirements, having a GPA of 2.0 and above, and applying via Cal State Apply by the October/November deadline."
+    },
+    {
+        "question": "Which UC is the easiest to get into?",
+        "keywords": ["UC", "easy", "grades", "college", "acceptance"],
+        "category": "Competitveness_and_Chances",
+        "answer": "Based on recent admission data, the easiest UC to get into as a transfer student are UC Merced, UC Riverside, and UC Santa Cruz, which all maintain transfer acceptance rates above 50%"
+    },
+    {
+        "question": "Do I need to write essays for the transfer application?",
+        "keywords": ["essays", "requirements", "application", "transfer", "transfer student"],
+        "category": "Application_Process",
+        "answer": "Yes, you will need to write essays for the transfer application."
+    },
+    {
+        "question": "Does community college affect my chances of getting into a UC?",
+        "keywords": ["community college", "chances", "UC", "acceptance", "college"],
+        "category": "Competitveness_and_Chances",
+        "answer": "Attending a California Community College (CCC) significantly improves your chances of transfer admission to the University of California (UC) system compared to other transfer routes."
+    },
+    {
+        "question": "Can I get into UCLA with a 3.2?",
+        "keywords": ["acceptance", "UCLA", "GPA", "UC", "grades"],
+        "category": "School_Specific_UCLA",
+        "answer": "It is technicallty possible to be admittied to UCLA with a 3.2 GPA. However, it is important to note that a 3.2 is significantly below the average of admitted students."
+    },
+    {
+        "question": "Do I need math?",
+        "keywords": ["math", "major", "acceptance", "transfer"], 
+        "category": "Major_Prep",
+        "answer": "You will need to take math courses to satisfy your general education courses at your prospected college. However, the amount of math classes needed will depend on your major."
+    },
+    {
+        "question": "Should I transfer after 1 year or 2 years?",
+        "keywords": ["transfer", "acceptance", "admissions", "major prep"],
+        "category": "Major_Prep",
+        "answer": "Transferring after two years is the standard path and generally offers the most financial and academic security, as many major state university systems require 60 transferable units (two years of full-time study) for admission."
+    },
+    {
+        "question": "Do extracurricular activities matter?",
+        "keywords": ["extracurricular activities", "transfer", "transfer student", "UC", "CSU", "university"],
+        "category": "Application_Process",
+        "answer": "Extracurricular activities matter significantly in university admissions, primarily as a tool for differentiation between academically qualified candidates."
+    },
+    {
+        "question": "Do I need work experience to transfer?",
+        "keywords": ["work", "experience", "extracurricular activities", "transfer", "acceptance"],
+        "category": "Application_Process",
+        "answer": "For college transfers, work experience is rarely required but can often be a beneficial extracurricular activity."
+    },
+    {
+        "question": "Does UCLA have TAG?",
+        "keywords": ["UCLA", "UC", "TAG", "transfer student", "transfer"],
+        "category": "School_Specific_UCLA",
+        "answer": "No, UCLA does not participate in the UC Transfer Admission Guarantee (TAG) program. UCLA offers the Transfer Alliance Program (TAP), which provides priority consideration for admission to the College of Letters and Science for students who complete a participating california community college honors program."
+    },
+    {
+        "question": "Do all CSU schools have the same deadline?",
+        "keywords": ["CSU", "deadline", "acceptance", "admissions"],
+        "category": "Deadlines",
+        "answer": "No, all California State University (CSU) schools do no have the same application deadline."
+    },
+    {
+        "question": "What happens if I miss the UC deadline?",
+        "keywords": ["deadline", "UC", "acceptance", "admissions", "application"],
+        "category": "Deadlines",
+        "answer": "If you miss the UC deadline, it typically means your application will not be reviewed for that cycle."
+    },
+    {
+        "question": "Do online classes count for transfer?",
+        "keywords": ["online classes", "transfer student", "transfer", "admissions"],
+        "category": "Application_Process",
+        "answer": "Online classes do count for transfer credit as long as they are offered by a regionally accredited college or university."
+    },
+    {
+        "question": "Do I need a higher GPA for competitve majors?",
+        "keywords": ["GPA", "majors", "acceptance", "admissions"],
+        "category": "GPA",
+        "answer": "Yes, competitve majors like engineering, computer science, business, and nursing, often require a higher GPA for admission compared to general university admission."
+    },
+    {
+        "question": "Do I have to complete general education before transferring?",
+        "keywords": ["general education", "transfer student", "transfer", "acceptance"],
+        "category": "Application_Process",
+        "answer": "Completing all general education requirements is not a strict requirement for admission to most university, howerver it is highly recommended to streamline your path to graduation."
+    },
+    {
+        "question": "When do I apply?",
+        "keywords": ["application", "acceptance", "deadline", "due date"],
+        "category": "Deadlines",
+        "answer": "For transfer students aiming for the Fall 2027 semester, the primary application period begins late 2026. The UC and CSU system open their application filing periods on October 1, 2026 with a deadline of November 30, 2026."
+    },
+    {
+        "question": "How many schools should I apply to?",
+        "keywords": ["university", "college", "application", "amount"],
+        "category": "Application_Process",
+        "answer": "Most students should apply to 8-12 schools to balance competitve choices with safty options."
+    }
+]
